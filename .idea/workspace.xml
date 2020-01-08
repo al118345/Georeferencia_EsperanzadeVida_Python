@@ -2,87 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213bae0a-f7aa-4cf5-9edb-e2c955f3c5dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.dbf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.shx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/GeoreferenciaMundo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1960.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1961.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1962.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1963.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1964.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1965.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1966.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1967.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1968.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1969.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1970.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1971.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1972.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1973.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1974.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1975.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1976.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1977.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1978.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1979.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1980.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1981.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1982.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1983.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1984.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1985.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1986.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1987.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1988.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1989.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1990.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1991.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1992.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1993.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1994.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1995.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1996.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1997.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1998.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1999.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2000.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2001.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2002.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2003.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2004.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2005.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2006.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2007.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2008.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2009.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2010.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2011.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2012.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2013.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2014.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2015.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mainv2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mainv2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mainv3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mainv3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bucle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bucle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ne_110m_admin_0_countries.shp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ESPERANZA.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Metadata_Country_API_SP.DYN.LE00.IN_DS2_en_csv_v2_612574.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/Metadata_Indicator_API_SP.DYN.LE00.IN_DS2_en_csv_v2_612574.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.VERSION.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.cpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.prj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ne_110m_admin_0_countries.shp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mainv2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mainv2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mainv3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Mainv3.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,19 +19,17 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/GeoreferenciaMundo$Main.coverage" NAME="Main Coverage Results" MODIFIED="1577392323111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GeoreferenciaMundo$Mainv3.coverage" NAME="Mainv3 Coverage Results" MODIFIED="1577397072142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GeoreferenciaMundo$bucle.coverage" NAME="bucle Coverage Results" MODIFIED="1577992150767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GeoreferenciaMundo$bucle.coverage" NAME="bucle Coverage Results" MODIFIED="1578504994546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GeoreferenciaMundo$Mainv2.coverage" NAME="Mainv2 Coverage Results" MODIFIED="1577393981200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Mainv3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mainv3.py">
+      <file leaf-file-name="bucle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bucle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="179" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-2206">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -389,20 +312,28 @@
       <option name="presentableId" value="Default" />
       <updated>1577270878934</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Incial">
+      <created>1578504707637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578504707637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28540772" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32711443" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37437811" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37437811" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37437811" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32711443" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711443" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -430,23 +361,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Main.py</url>
-          <line>106</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mainv2.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mainv2.py</url>
-          <line>79</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager>
@@ -471,9 +385,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="115" column="35" lean-forward="false" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -513,9 +425,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="115" column="35" lean-forward="false" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -555,9 +465,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="115" column="35" lean-forward="false" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -597,9 +505,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="115" column="35" lean-forward="false" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -639,9 +545,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="115" column="35" lean-forward="false" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,14 +730,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2000html" />
-    <entry file="file://$PROJECT_DIR$/bucle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/GeoreferenciaMundo/lib/python3.7/site-packages/bokeh/models/callbacks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="727">
@@ -854,9 +750,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="179" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#29#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bucle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2206">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
