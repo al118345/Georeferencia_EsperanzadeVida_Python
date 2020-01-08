@@ -1,10 +1,8 @@
 import geopandas as gpd
 
 if __name__== "__main__":
-
     for any_datos in range(1960,2016):
         from bokeh.plotting import figure, output_file, save
-
         output_file(str(any_datos)+".html", title='Esperanza da vida, '+ str(any_datos))
         shapefile = 'test/ne_110m_admin_0_countries.shp'
         # Read shapefile using Geopandas
