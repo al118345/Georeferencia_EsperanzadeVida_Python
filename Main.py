@@ -1,27 +1,12 @@
-
-
-
-
-
-
 import geopandas as gpd
-import requests
-
-
-
-
-
-
-
 
 if __name__== "__main__":
-
 
     for any_datos in range(1960,2016):
         from bokeh.plotting import figure, output_file, save
 
         output_file(str(any_datos)+".html", title='Esperanza da vida, '+ str(any_datos))
-        shapefile = '/Users/rubenperezibanez/PycharmProjects/GeoreferenciaMundo/test/ne_110m_admin_0_countries.shp'
+        shapefile = 'test/ne_110m_admin_0_countries.shp'
         # Read shapefile using Geopandas
         gdf = gpd.read_file(shapefile)[['ADMIN', 'ADM0_A3', 'geometry']]
         # Rename columns.
@@ -157,21 +142,6 @@ if __name__== "__main__":
         p.add_layout(color_bar, 'below')
 
 
-
-
-
-
-
-        # Make a slider object: slider
-        #slider = Slider(title='Year', start=1975, end=2017, step=1, value=2016)
-
-        #slider.on_change('value', update_plot)
-        # Make a column layout of widgetbox(slider) and plot, and add it to the current document
-       # layout = column(p, widgetbox(slider))
-       # curdoc().add_root(layout)
-
-
-        #Display figure.
         save(p)
 
 
